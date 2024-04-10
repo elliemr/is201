@@ -1,0 +1,14 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.masthead-heading text-uppercase{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.masthead-subheading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+    color: blue !important;
+
+}
+.notyellow{
+    color:black
+}

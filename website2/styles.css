@@ -1,0 +1,38 @@
+
+.rizz:hover{
+    color: chartreuse;
+    background-color: black;
+    font-size: 36pt;
+    border: dashed fuchsia 5px;
+
+}
+li{
+
+}
+    body{
+        background-color: rgb(40, 112, 219);
+        color: aliceblue;  /*text color*/
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    a{
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center
+    }
+    h5{
+        text-align: center;
+    }
+        color: aliceblue;
+    }
+    a:visited{
+        color: black;
+    }
+    img{
+        border: 22px solid fuchsia;
+        padding: 33px;
+        margin: 5px;
+        /*centers stuff*/
+        display: block;
+        margin: auto;
+    }
+
